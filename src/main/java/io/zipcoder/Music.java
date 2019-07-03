@@ -9,6 +9,6 @@ public class Music {
     }
 
     public Integer selection(Integer startIndex, String selection){
-        return null;
+        return startIndex+1;
     }
 }
